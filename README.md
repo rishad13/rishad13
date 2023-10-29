@@ -3,12 +3,12 @@
 <h1 align="center"> Hello, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
          alt="Waving hand animated gif"
          height="45"
-         width="45" /> I'm Harshit Pachori</h1>
+         width="45" /> I'm Rishad</h1>
           <h3 align ="center">Glad to see you here!</h3>  
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=HarshitPachori.HarshitPachori)
-[![Github](https://img.shields.io/github/followers/HarshitPachori?label=Follow&style=social)](https://github.com/HarshitPachori)
+![](https://visitor-badge.laobi.icu/badge?page_id=HarshitPachori.rishad13)
+[![Github](https://img.shields.io/github/followers/HarshitPachori?label=Follow&style=social)](https://github.com/rishad13)
 <a href="https://github.com/HarshitPachori/stargazers"><img src="https://img.shields.io/github/stars/HarshitPachori" alt="Stars Badge"/></a>
 
 <div align="center">
