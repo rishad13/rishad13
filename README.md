@@ -5,7 +5,7 @@
  
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tinu-thampi13&label=Profile%20views&color=0e75b6&style=flat" alt="tinu-thampi13" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tinu-thampi13&label=Profile%20views&color=0e75b6&style=flat" alt="Rishad N" /> </p>
 
 
 - Passionate about the world of code and crafting digital wonders, I'm a **Flutter** maestro <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="15" height="15"/>, an adept at the art of **Hive**  <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="15" height="15"/> , a virtuoso of SQL in the form of **SQLite** <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="15" height="15"/> , and a **Firebase** sorcerer <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="15" height="15"/>. I navigate the rivers of **Riverpod**, uphold the kingdom of **Provider**, and soar high with the power of **GetX**.
