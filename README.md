@@ -7,7 +7,7 @@
 <a href="https://twitter.com/RishadNFT">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="www.linkedin.com/in/rishadn/">
+<a href="https://www.linkedin.com/in/rishadn/">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/RishadN">
@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working at [Crative App Lab](https://www.linkedin.com/company/creative-app-lab-private-limited/) as Mobile App Developer 
 - 🌱 I’m currently learning Backend, Multi Platform Development
-- 💬 Ask me about [anything](www.linkedin.com/in/rishadn/)
+- 💬 Ask me about [anything](https://www.linkedin.com/in/rishadn/)
 - 📫 How to reach me: nrishad2002@gmail.com
 
 ![Rishad github stats](https://github-readme-stats-phi-blond.vercel.app/api?username=rishad13&theme=dark&show_icons=true)
