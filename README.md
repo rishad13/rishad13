@@ -1,11 +1,24 @@
-<p>
-  <h1 align="center">
-    <b>Hi there, I'm <a href="https://p3terx.com">rishad</a> 👋</b>
-  </h1>
-</p>
+### Hi, I'm Rishad N
 
-<p align="center">
-  <a href="https://github.com/rishad13">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rishad13&hide=issues&hide_title=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-    </a>
-</p>
+</br>
+<a href="https://www.instagram.com/_rishad_n/">
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://twitter.com/RishadNFT">
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="www.linkedin.com/in/rishadn/">
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://t.me/RishadN">
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+</br></br>
+
+- 🔭 I’m currently working at [Crative App Lab](https://www.linkedin.com/company/creative-app-lab-private-limited/) as Mobile App Developer 
+- 🌱 I’m currently learning Backend, Multi Platform Development
+- 💬 Ask me about [anything](www.linkedin.com/in/rishadn/)
+- 📫 How to reach me: nrishad2002@gmail.com
+
+![Rishad github stats](https://github-readme-stats-phi-blond.vercel.app/api?username=rishad13&theme=dark&show_icons=true)
+![Rishad most used language](https://github-readme-stats-phi-blond.vercel.app/api/top-langs/?username=rishad13&theme=dark&layout=compact)
