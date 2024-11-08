@@ -15,7 +15,7 @@
 </a>
 </br></br>
 
-- 🔭 I’m currently working at [Crative App Lab](https://www.linkedin.com/company/creative-app-lab-private-limited/) as Mobile App Developer 
+- 🔭 I’m currently working at [Coding Hands Infotech LLP](https://www.linkedin.com/company/codinghands/) as Mobile App Developer 
 - 🌱 I’m currently learning Backend, Multi Platform Development
 - 💬 Ask me about [anything](https://www.linkedin.com/in/rishadn/)
 - 📫 How to reach me: nrishad2002@gmail.com
