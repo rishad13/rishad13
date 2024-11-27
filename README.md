@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working at [Coding Hands Infotech LLP](https://www.linkedin.com/company/codinghands/) as Mobile App Developer 
 - 🌱 I’m currently learning Backend, Multi Platform Development
-- 💬 Ask me about [anything](https://www.linkedin.com/in/rishadn/)
+- 💬 Ask me [anything](https://www.linkedin.com/in/rishadn/)
 - 📫 How to reach me: nrishad2002@gmail.com
 
 ![Rishad github stats](https://github-readme-stats-phi-blond.vercel.app/api?username=rishad13&theme=dark&show_icons=true)
