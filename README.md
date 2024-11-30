@@ -28,6 +28,6 @@
 </p>
 
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rishad13&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![Rishad github stats](https://github-readme-stats-phi-blond.vercel.app/api?username=rishad13&theme=dark&show_icons=true)
 ![Rishad most used language](https://github-readme-stats-phi-blond.vercel.app/api/top-langs/?username=rishad13&theme=dark&layout=compact)
