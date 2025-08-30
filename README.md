@@ -23,9 +23,6 @@
 - 📫 How to reach me: [website](https://link3.to/rishad)
 
   **Thanks for visiting :heart:**
-<p align="center"> 
-<img src="https://profile-counter.glitch.me/rishad13/count.svg">  
-</p>
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rishad13&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
